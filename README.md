@@ -22,7 +22,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/v04/e-commerce-design.git
+git clone https://github.com/v04/Vslabel.git
 Navigate to the project directory:
 bash
 Copy code
